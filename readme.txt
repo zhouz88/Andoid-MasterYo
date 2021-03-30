@@ -3,3 +3,6 @@
 
 视屏优化
 https://zhuanlan.zhihu.com/p/56086941
+
+notification 设置
+https://blog.csdn.net/u014702999/article/details/48809515
