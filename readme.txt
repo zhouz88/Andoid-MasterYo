@@ -12,3 +12,6 @@ https://cloud.tencent.com/developer/article/1505402
 
 多进程
 https://www.jianshu.com/p/384ba020428a
+
+安卓前台 运行
+ https://www.jianshu.com/p/5505390503fa
