@@ -9,3 +9,6 @@ https://blog.csdn.net/u014702999/article/details/48809515
 
 消息推送机制
 https://cloud.tencent.com/developer/article/1505402
+
+多进程
+https://www.jianshu.com/p/384ba020428a
